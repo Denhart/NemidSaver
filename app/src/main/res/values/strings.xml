@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Nemid</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Add new</string>
+    <string name="passcode_manage">Manage passcode</string>
+    <string name="passcode_enter_passcode">Enter your passcode</string>
+    <string name="passcode_enter_old_passcode">Enter your old passcode</string>
+    <string name="passcode_re_enter_passcode">Re-enter your passcode</string>
+    <string name="passcode_change_passcode">Change passcode</string>
+    <string name="passcode_set">Passcode set</string>
+    <string name="passcode_wrong_passcode">Wrong passcode, please try again.</string>
+    <string name="passcode_preference_title">Passcode lock</string>
+    <string name="passcode_turn_off">Turn passcode off</string>
+    <string name="passcode_turn_on">Turn passcode on</string>
+    <string name="title_activity_pin">pinActivity</string>
+    <string name="imagePath">/nemid/cache/images/</string>
+
+    <string name="deleted">Deleted</string>
+    <string name="canceled">Canceled</string>
+
+    <string name="noinput">Please enter something!</string>
+    <string name="saved">Saved</string>
+    <string name="decrypting">Decrypting image</string>
+    <string name="loading">Loading...</string>
+    <string name="delitem">Delete selected item?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="set_name">Set a name for the new NemID</string>
+
+</resources>
